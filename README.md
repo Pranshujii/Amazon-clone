@@ -8,7 +8,8 @@
 <p>Responsive Design: Optimized layout for both desktop.</p>
 
 <h3>Acknowledgements<h3>
-<p>Inspired by Amazon for its design and layout. Special thanks to the web design community for the inspiration and resources.
-Contact
-For any questions or feedback, please contact me at pranshuji38@gmail.com.</p>
+<p>Inspired by Amazon for its design and layout. Special thanks to the web design community for the inspiration and resources.</p>
+
+<h3>Contact</h3>
+<p>For any questions or feedback, please contact me at pranshuji38@gmail.com.</p>
 
